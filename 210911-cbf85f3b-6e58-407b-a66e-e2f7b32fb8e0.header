@@ -1,0 +1,298 @@
+{
+    "uuid": "210911-cbf85f3b-6e58-407b-a66e-e2f7b32fb8e0",
+    "start_time": 1631353177,
+    "end_time": 1631355688,
+    "config": {
+        "category": 4,
+        "mode": {
+            "mode": 2,
+            "ai": false,
+            "detail_rule": {
+                "time_fixed": 5,
+                "time_add": 20,
+                "dora_count": 3,
+                "shiduan": 1,
+                "init_point": 100000,
+                "fandian": 100000,
+                "can_jifei": false,
+                "tianbian_value": 0,
+                "liqibang_value": 1000,
+                "changbang_value": 300,
+                "noting_fafu_1": 1000,
+                "noting_fafu_2": 1500,
+                "noting_fafu_3": 3000,
+                "have_liujumanguan": true,
+                "have_qieshangmanguan": false,
+                "have_biao_dora": true,
+                "have_gang_biao_dora": true,
+                "ming_dora_immediately_open": true,
+                "have_li_dora": true,
+                "have_gang_li_dora": true,
+                "have_sifenglianda": true,
+                "have_sigangsanle": true,
+                "have_sijializhi": true,
+                "have_jiuzhongjiupai": true,
+                "have_sanjiahele": false,
+                "have_toutiao": false,
+                "have_helelianzhuang": true,
+                "have_helezhongju": false,
+                "have_tingpailianzhuang": true,
+                "have_tingpaizhongju": false,
+                "have_yifa": true,
+                "have_nanruxiru": true,
+                "jingsuanyuandian": 100000,
+                "shunweima_2": 0,
+                "shunweima_3": 0,
+                "shunweima_4": 0,
+                "bianjietishi": false,
+                "ai_level": 0
+            },
+            "game_setting": {
+                "emoji_switch": 0
+            }
+        },
+        "meta": {
+            "contest_uid": 5350
+        }
+    },
+    "accounts": [
+        {
+            "account_id": 272699,
+            "seat": 0,
+            "nickname": "滅咩子",
+            "avatar_id": 400405,
+            "character": {
+                "charid": 200004,
+                "level": 5,
+                "exp": 0,
+                "skin": 400405,
+                "is_upgraded": true,
+                "extra_emoji": [
+                    999,
+                    994,
+                    10,
+                    11,
+                    12,
+                    986
+                ]
+            },
+            "title": 600028,
+            "level": {
+                "id": 10202,
+                "score": 252
+            },
+            "level3": {
+                "id": 20501,
+                "score": 60
+            },
+            "avatar_frame": 0,
+            "verified": 0,
+            "views": [
+                {
+                    "slot": 0,
+                    "item_id": 305019
+                },
+                {
+                    "slot": 1,
+                    "item_id": 305035
+                },
+                {
+                    "slot": 2,
+                    "item_id": 308002
+                },
+                {
+                    "slot": 3,
+                    "item_id": 305011
+                },
+                {
+                    "slot": 4,
+                    "item_id": 305052
+                },
+                {
+                    "slot": 6,
+                    "item_id": 305805
+                },
+                {
+                    "slot": 7,
+                    "item_id": 305017
+                },
+                {
+                    "slot": 8,
+                    "item_id": 307006
+                },
+                {
+                    "slot": 10,
+                    "item_id": 305901
+                }
+            ]
+        },
+        {
+            "account_id": 15447874,
+            "seat": 1,
+            "nickname": "Hashi_nop",
+            "avatar_id": 400401,
+            "character": {
+                "charid": 200004,
+                "level": 5,
+                "exp": 0,
+                "skin": 400401,
+                "is_upgraded": false
+            },
+            "title": 600027,
+            "level": {
+                "id": 10203,
+                "score": 816
+            },
+            "level3": {
+                "id": 20301,
+                "score": 857
+            },
+            "avatar_frame": 0,
+            "verified": 0,
+            "views": [
+                {
+                    "slot": 0,
+                    "item_id": 305003
+                },
+                {
+                    "slot": 1,
+                    "item_id": 305007
+                },
+                {
+                    "slot": 2,
+                    "item_id": 305300
+                },
+                {
+                    "slot": 3,
+                    "item_id": 305011
+                },
+                {
+                    "slot": 4,
+                    "item_id": 305051
+                },
+                {
+                    "slot": 6,
+                    "item_id": 308009
+                },
+                {
+                    "slot": 7,
+                    "item_id": 308005
+                }
+            ]
+        },
+        {
+            "account_id": 13635216,
+            "seat": 2,
+            "nickname": "丹珏",
+            "avatar_id": 400201,
+            "character": {
+                "charid": 200002,
+                "level": 3,
+                "exp": 15725,
+                "skin": 400201,
+                "is_upgraded": false
+            },
+            "title": 0,
+            "level": {
+                "id": 10103,
+                "score": 73
+            },
+            "level3": {
+                "id": 20201,
+                "score": 296
+            },
+            "avatar_frame": 0,
+            "verified": 0
+        },
+        {
+            "account_id": 531124,
+            "seat": 3,
+            "nickname": "sola_x",
+            "avatar_id": 401001,
+            "character": {
+                "charid": 200010,
+                "level": 4,
+                "exp": 1751,
+                "skin": 401001,
+                "is_upgraded": false
+            },
+            "title": 600027,
+            "level": {
+                "id": 10401,
+                "score": 1581
+            },
+            "level3": {
+                "id": 20203,
+                "score": 326
+            },
+            "avatar_frame": 0,
+            "verified": 0,
+            "views": [
+                {
+                    "slot": 0,
+                    "item_id": 305600
+                },
+                {
+                    "slot": 1,
+                    "item_id": 305035
+                },
+                {
+                    "slot": 2,
+                    "item_id": 305313
+                },
+                {
+                    "slot": 6,
+                    "item_id": 305806
+                },
+                {
+                    "slot": 7,
+                    "item_id": 308005
+                },
+                {
+                    "slot": 8,
+                    "item_id": 307006
+                },
+                {
+                    "slot": 10,
+                    "item_id": 305901
+                }
+            ]
+        }
+    ],
+    "result": {
+        "players": [
+            {
+                "seat": 3,
+                "total_point": 56400,
+                "part_point_1": 156400,
+                "part_point_2": 0,
+                "grading_score": 0,
+                "gold": 0
+            },
+            {
+                "seat": 1,
+                "total_point": 21500,
+                "part_point_1": 121500,
+                "part_point_2": 0,
+                "grading_score": 0,
+                "gold": 0
+            },
+            {
+                "seat": 0,
+                "total_point": -26400,
+                "part_point_1": 73600,
+                "part_point_2": 0,
+                "grading_score": 0,
+                "gold": 0
+            },
+            {
+                "seat": 2,
+                "total_point": -51500,
+                "part_point_1": 48500,
+                "part_point_2": 0,
+                "grading_score": 0,
+                "gold": 0
+            }
+        ]
+    }
+}
